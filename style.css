@@ -1,0 +1,45 @@
+.contenedor {
+    background-color: gainsboro;
+    border-top: 2px solid black;
+    padding: 15px;
+    width: 600px;
+    display: block;
+}
+
+.octodex1{
+    background-color: skyblue;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.octodex2 {
+    background-color: darksalmon;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.octodex3 {
+    background-color: floralwhite;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray;
+    text-align: center;
+    margin: 0px;
+    font-size: 40px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+div {
+    margin: 15px 0px;
+}
